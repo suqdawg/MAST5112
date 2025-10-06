@@ -1,4 +1,28 @@
-# Welcome to your Expo app 👋
+# Welcome to my Expo app 👋
+# MAST5112 Part 2
+# Github Link
+
+# Youtube Video link
+
+# Changelog
+
+1. 
+2. 
+
+# Screenshots
+
+<img width="393" height="852" alt="hOME" src="https://github.com/user-attachments/assets/a5b47be5-c910-49e9-afa2-aa43109cebd7" />
+
+<img width="393" height="852" alt="More" src="https://github.com/user-attachments/assets/b615027a-7722-488b-94c1-2b9010c62b0c" />
+
+<img width="393" height="852" alt="Menu" src="https://github.com/user-attachments/assets/7b6f6af5-d2b5-44db-8b66-372da3b5000f" />
+
+<img width="393" height="852" alt="Profile" src="https://github.com/user-attachments/assets/9d676f3b-1509-4845-a7cb-a86787db9085" />
+
+<img width="393" height="852" alt="Order" src="https://github.com/user-attachments/assets/895a7b63-ef7c-4a2c-9d7b-a10058320b17" />
+
+<img width="393" height="852" alt="Order Done" src="https://github.com/user-attachments/assets/42b3722a-1e64-4edb-a4aa-8cf36f3d9407" />
+
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
