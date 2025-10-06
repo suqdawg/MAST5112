@@ -1,8 +1,10 @@
-# Welcome to my Expo app 👋
 # MAST5112 Part 2
+
 # Github Link
+https://github.com/suqdawg/MAST5112
 
 # Youtube Video link
+https://www.youtube.com/watch?v=qhmQ2bJJivw
 
 # Changelog
 
