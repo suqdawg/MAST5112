@@ -6,8 +6,21 @@
 
 # Changelog
 
-1. 
-2. 
+1. 1.	The home screen displays total number of menu items to select.
+2.	Uses core components to create a fully featured user interface.
+3.	The app has a predefined list of courses that the chef can choose from, starters, mains and desserts.
+4.	Uses layouts to position components on the user interface.
+5.	The home screen also displays the menu the chef has chosen.
+6.	Applied a colour scheme and images to the user interface.
+7.	Handles text inputs.
+8.	Uses typescript variables to store data.
+9.	The cart has JavaScript functionality to add, remove and calculate items.
+10.	 Handles button presses.
+11.	Uses typescript to perform actions according to user input.
+12.	 On the home page, the chef can add all the menu items to the cart.
+13.	Navigate between different screens in an app.
+14.	The home page shows the complete menu.
+15.	Uses if statements to solve programming problems.
 
 # Screenshots
 
