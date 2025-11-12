@@ -4,10 +4,22 @@
 https://github.com/suqdawg/MAST5112
 
 # Youtube Video link
-https://www.youtube.com/watch?v=qhmQ2bJJivw
+https://www.youtube.com/watch?v=T0KnwxKQ22M
 
 # Changelog
 
+1.	Fixed Cart calculation for dessert items.
+2.	Refactored/renamed the search button to filter button.
+3.	Refactored the search page to filter page.
+4.	Removed text input bar on search page.
+5.	Added 3 buttons named Starters, Mains and Desserts.
+6.	Added a functioning link to Dessert “more” page.
+7.	Added more product menus details.
+8.	Uses arrays to store data on filter page
+9.	Fluid navigation between different menu screens.
+10.	The cart has JavaScript functionality to add, remove and calculate items.
+
+# OLD Changelog
 1. 1.	The home screen displays total number of menu items to select.
 2.	Uses core components to create a fully featured user interface.
 3.	The app has a predefined list of courses that the chef can choose from, starters, mains and desserts.
