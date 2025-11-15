@@ -34,7 +34,7 @@ export const getCartItems = () => {
 };
 
 /**
- * Calculates the total price of all items in the cart.
+ * Calculates the total price of all items in the cart. and more
  * @returns {number} The total price.
  */
 export const calculateCartTotal = () => {
