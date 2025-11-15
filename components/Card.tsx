@@ -20,7 +20,7 @@ const Card: React.FC<CardProps> = ({ title, onPress, children }) => {
 
 const styles = StyleSheet.create({
   card: {
-    backgroundColor: '#ADD8E6', // Light blue background
+    backgroundColor: '#ADD8E6', // Light blue background123
     borderRadius: 10,
     padding: 15,
     marginVertical: 10,
